@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732479231 source:/home/lenovo-mint/Documentos/mapa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
