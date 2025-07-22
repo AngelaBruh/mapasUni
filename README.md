@@ -19,20 +19,20 @@ Para controlar essas funcionalidades, crie um menu com os respectivos comandos:
 Descrição das funcionalidades:
 
 1 - Fazer Reserva - Fazer leitura do Nome, CPF, Dia da Reserva (1 - Quinta, 2 - Sexta, 3 - Sábado, 4 - Domingo) e Quantidade de Pessoas
-2 - Listar Reservas - Listar todas reservas cadastradas no formato:
 
+2 - Listar Reservas - Listar todas reservas cadastradas no formato:
 Nome: Rogério Napoleão Júnior
 CPF: 123.123.123-11
 Dia: 2
 Número de Pessoas: 4
-===============================
+
 Nome: João Silva
 CPF: 456.456.456-22
 Dia: 3
 Número de Pessoas: 2
-===============================
 
 3 - Total de Pessoas por Dia - Digitar o Dia da Reserva, somar a quantidade de pessoas reservadas neste dia e mostrar na tela o total.
+
 4 - Sair - Encerrar o programa
 
 Requisitos:
