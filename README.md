@@ -12,8 +12,11 @@ Toda reserva deve armazenar então o nome do responsável pela reserva, o CPF, o
 Para controlar essas funcionalidades, crie um menu com os respectivos comandos:
 
 1 - Fazer Reserva.
+
 2 - Listar Reserva.
+
 3 - Total de Pessoas Por Dia.
+
 4 - Sair.
 
 Descrição das funcionalidades:
@@ -29,6 +32,8 @@ CPF: 123.123.123-11
 Dia: 2
 
 Número de Pessoas: 4
+
+
 
 Nome: João Silva
 
